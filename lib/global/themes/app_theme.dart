@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_project_setup/utils/constants/app_colors.dart';
-import 'package:flutter_project_setup/utils/constants/size_config.dart';
+import 'package:flutter_project_setup/global/utils/app_colors.dart';
+import 'package:flutter_project_setup/global/utils/size_config.dart';
 
 class CustomAppTheme {
   static TextTheme lightTextTheme = TextTheme(

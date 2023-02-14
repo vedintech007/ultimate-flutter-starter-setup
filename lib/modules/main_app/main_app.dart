@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project_setup/utils/constants/themes/app_theme.dart';
-import 'package:flutter_project_setup/widgets/dismiss_keyboard.dart';
+import 'package:flutter_project_setup/global/themes/app_theme.dart';
+import 'package:flutter_project_setup/global/widgets/dismiss_keyboard.dart';
 
 class App extends StatelessWidget {
   const App({super.key});
